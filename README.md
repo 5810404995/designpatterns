@@ -1,4 +1,4 @@
-# duckdesignpatterns
+# designpatterns
 
 by ozone (5810404995)
 
