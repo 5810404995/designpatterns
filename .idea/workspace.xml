@@ -2,121 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5664adda-2b59-472c-83b1-6f9db0ba646e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lab9/no5/Station.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lab9/no5/VendingMachine.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/duckdesignpatterns/version1/DuckCall.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/duckdesignpatterns/version1/DuckSimulator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/duckdesignpatterns/version1/Goose.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/duckdesignpatterns/version1/GooseAdapter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/duckdesignpatterns/version1/MallardDuck.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/duckdesignpatterns/version1/Pigeon.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/duckdesignpatterns/version1/PigeonAdapter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/duckdesignpatterns/version1/Quackable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/duckdesignpatterns/version1/RedheadDuck.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/duckdesignpatterns/version1/RubberDuck.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/duckdesignpatterns/version2/DuckCall.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/duckdesignpatterns/version2/DuckSimulator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/duckdesignpatterns/version2/Goose.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/duckdesignpatterns/version2/GooseAdapter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/duckdesignpatterns/version2/MallardDuck.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/duckdesignpatterns/version2/Pigeon.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/duckdesignpatterns/version2/PigeonAdapter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/duckdesignpatterns/version2/QuackCounter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/duckdesignpatterns/version2/QuackEcho.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/duckdesignpatterns/version2/Quackable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/duckdesignpatterns/version2/RedheadDuck.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/duckdesignpatterns/version2/RubberDuck.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/duckdesignpatterns/version3/AbstractDuckFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/duckdesignpatterns/version3/CountingAndEchoingDuckFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/duckdesignpatterns/version3/CountingDuckFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/duckdesignpatterns/version3/DuckCall.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/duckdesignpatterns/version3/DuckFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/duckdesignpatterns/version3/DuckSimulator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/duckdesignpatterns/version3/Goose.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/duckdesignpatterns/version3/GooseAdapter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/duckdesignpatterns/version3/MallardDuck.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/duckdesignpatterns/version3/Pigeon.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/duckdesignpatterns/version3/PigeonAdapter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/duckdesignpatterns/version3/QuackCounter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/duckdesignpatterns/version3/QuackEcho.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/duckdesignpatterns/version3/Quackable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/duckdesignpatterns/version3/RedheadDuck.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/duckdesignpatterns/version3/RubberDuck.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/duckdesignpatterns/version4/AbstractDuckFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/duckdesignpatterns/version4/CountingAndEchoingDuckFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/duckdesignpatterns/version4/CountingDuckFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/duckdesignpatterns/version4/DuckCall.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/duckdesignpatterns/version4/DuckFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/duckdesignpatterns/version4/DuckSimulator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/duckdesignpatterns/version4/Flock.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/duckdesignpatterns/version4/Goose.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/duckdesignpatterns/version4/GooseAdapter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/duckdesignpatterns/version4/MallardDuck.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/duckdesignpatterns/version4/Pigeon.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/duckdesignpatterns/version4/PigeonAdapter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/duckdesignpatterns/version4/QuackCounter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/duckdesignpatterns/version4/QuackEcho.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/duckdesignpatterns/version4/Quackable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/duckdesignpatterns/version4/RedheadDuck.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/duckdesignpatterns/version4/RubberDuck.class" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/version1/DuckCall.java" afterPath="$PROJECT_DIR$/src/lab8/version1/DuckCall.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/version1/DuckSimulator.java" afterPath="$PROJECT_DIR$/src/lab8/version1/DuckSimulator.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/version1/Goose.java" afterPath="$PROJECT_DIR$/src/lab8/version1/Goose.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/version1/GooseAdapter.java" afterPath="$PROJECT_DIR$/src/lab8/version1/GooseAdapter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/version1/MallardDuck.java" afterPath="$PROJECT_DIR$/src/lab8/version1/MallardDuck.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/version1/Pigeon.java" afterPath="$PROJECT_DIR$/src/lab8/version1/Pigeon.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/version1/PigeonAdapter.java" afterPath="$PROJECT_DIR$/src/lab8/version1/PigeonAdapter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/version1/Quackable.java" afterPath="$PROJECT_DIR$/src/lab8/version1/Quackable.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/version1/RedheadDuck.java" afterPath="$PROJECT_DIR$/src/lab8/version1/RedheadDuck.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/version1/RubberDuck.java" afterPath="$PROJECT_DIR$/src/lab8/version1/RubberDuck.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/version2/DuckCall.java" afterPath="$PROJECT_DIR$/src/lab8/version2/DuckCall.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/version2/DuckSimulator.java" afterPath="$PROJECT_DIR$/src/lab8/version2/DuckSimulator.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/version2/Goose.java" afterPath="$PROJECT_DIR$/src/lab8/version2/Goose.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/version2/GooseAdapter.java" afterPath="$PROJECT_DIR$/src/lab8/version2/GooseAdapter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/version2/MallardDuck.java" afterPath="$PROJECT_DIR$/src/lab8/version2/MallardDuck.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/version2/Pigeon.java" afterPath="$PROJECT_DIR$/src/lab8/version2/Pigeon.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/version2/PigeonAdapter.java" afterPath="$PROJECT_DIR$/src/lab8/version2/PigeonAdapter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/version2/QuackCounter.java" afterPath="$PROJECT_DIR$/src/lab8/version2/QuackCounter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/version2/QuackEcho.java" afterPath="$PROJECT_DIR$/src/lab8/version2/QuackEcho.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/version2/Quackable.java" afterPath="$PROJECT_DIR$/src/lab8/version2/Quackable.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/version2/RedheadDuck.java" afterPath="$PROJECT_DIR$/src/lab8/version2/RedheadDuck.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/version2/RubberDuck.java" afterPath="$PROJECT_DIR$/src/lab8/version2/RubberDuck.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/version3/AbstractDuckFactory.java" afterPath="$PROJECT_DIR$/src/lab8/version3/AbstractDuckFactory.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/version3/CountingAndEchoingDuckFactory.java" afterPath="$PROJECT_DIR$/src/lab8/version3/CountingAndEchoingDuckFactory.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/version3/CountingDuckFactory.java" afterPath="$PROJECT_DIR$/src/lab8/version3/CountingDuckFactory.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/version3/DuckCall.java" afterPath="$PROJECT_DIR$/src/lab8/version3/DuckCall.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/version3/DuckFactory.java" afterPath="$PROJECT_DIR$/src/lab8/version3/DuckFactory.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/version3/DuckSimulator.java" afterPath="$PROJECT_DIR$/src/lab8/version3/DuckSimulator.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/version3/Goose.java" afterPath="$PROJECT_DIR$/src/lab8/version3/Goose.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/version3/GooseAdapter.java" afterPath="$PROJECT_DIR$/src/lab8/version3/GooseAdapter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/version3/MallardDuck.java" afterPath="$PROJECT_DIR$/src/lab8/version3/MallardDuck.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/version3/Pigeon.java" afterPath="$PROJECT_DIR$/src/lab8/version3/Pigeon.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/version3/PigeonAdapter.java" afterPath="$PROJECT_DIR$/src/lab8/version3/PigeonAdapter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/version3/QuackCounter.java" afterPath="$PROJECT_DIR$/src/lab8/version3/QuackCounter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/version3/QuackEcho.java" afterPath="$PROJECT_DIR$/src/lab8/version3/QuackEcho.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/version3/Quackable.java" afterPath="$PROJECT_DIR$/src/lab8/version3/Quackable.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/version3/RedheadDuck.java" afterPath="$PROJECT_DIR$/src/lab8/version3/RedheadDuck.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/version3/RubberDuck.java" afterPath="$PROJECT_DIR$/src/lab8/version3/RubberDuck.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/version4/AbstractDuckFactory.java" afterPath="$PROJECT_DIR$/src/lab8/version4/AbstractDuckFactory.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/version4/CountingAndEchoingDuckFactory.java" afterPath="$PROJECT_DIR$/src/lab8/version4/CountingAndEchoingDuckFactory.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/version4/CountingDuckFactory.java" afterPath="$PROJECT_DIR$/src/lab8/version4/CountingDuckFactory.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/version4/DuckCall.java" afterPath="$PROJECT_DIR$/src/lab8/version4/DuckCall.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/version4/DuckFactory.java" afterPath="$PROJECT_DIR$/src/lab8/version4/DuckFactory.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/version4/DuckSimulator.java" afterPath="$PROJECT_DIR$/src/lab8/version4/DuckSimulator.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/version4/Flock.java" afterPath="$PROJECT_DIR$/src/lab8/version4/Flock.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/version4/Goose.java" afterPath="$PROJECT_DIR$/src/lab8/version4/Goose.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/version4/GooseAdapter.java" afterPath="$PROJECT_DIR$/src/lab8/version4/GooseAdapter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/version4/MallardDuck.java" afterPath="$PROJECT_DIR$/src/lab8/version4/MallardDuck.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/version4/Pigeon.java" afterPath="$PROJECT_DIR$/src/lab8/version4/Pigeon.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/version4/PigeonAdapter.java" afterPath="$PROJECT_DIR$/src/lab8/version4/PigeonAdapter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/version4/QuackCounter.java" afterPath="$PROJECT_DIR$/src/lab8/version4/QuackCounter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/version4/QuackEcho.java" afterPath="$PROJECT_DIR$/src/lab8/version4/QuackEcho.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/version4/Quackable.java" afterPath="$PROJECT_DIR$/src/lab8/version4/Quackable.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/version4/RedheadDuck.java" afterPath="$PROJECT_DIR$/src/lab8/version4/RedheadDuck.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/version4/RubberDuck.java" afterPath="$PROJECT_DIR$/src/lab8/version4/RubberDuck.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/duckdesignpatterns.iml" afterPath="$PROJECT_DIR$/duckdesignpatterns.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -179,7 +65,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Station.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Station.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/lab9/no5/Station.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
@@ -199,7 +85,7 @@
       <file leaf-file-name="VendingMachine.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lab9/no5/VendingMachine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-778">
+            <state relative-caret-position="-739">
               <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -210,7 +96,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DuckSimulator.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DuckSimulator.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lab8/version1/DuckSimulator.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
@@ -401,6 +287,20 @@
               <item name="duckdesignpatterns" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="lab9" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="duckdesignpatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="duckdesignpatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lab9" type="462c0819:PsiDirectoryNode" />
+              <item name="no4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="duckdesignpatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="duckdesignpatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lab9" type="462c0819:PsiDirectoryNode" />
+              <item name="no5" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -703,6 +603,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -717,7 +618,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1087,38 +988,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab9/no5/Station.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-          <folding>
-            <element signature="e#287#288#0" expanded="true" />
-            <element signature="e#314#315#0" expanded="true" />
-            <element signature="e#346#347#0" expanded="true" />
-            <element signature="e#377#378#0" expanded="true" />
-            <element signature="e#427#428#0" expanded="true" />
-            <element signature="e#466#467#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lab9/no4/Tour.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="28" lean-forward="false" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab9/no5/VendingMachine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-778">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#591#592#0" expanded="true" />
-            <element signature="e#643#644#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1185,6 +1059,33 @@
         <state relative-caret-position="51">
           <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab9/no5/VendingMachine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-739">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#591#592#0" expanded="true" />
+            <element signature="e#643#644#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab9/no5/Station.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="e#287#288#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#346#347#0" expanded="true" />
+            <element signature="e#377#378#0" expanded="true" />
+            <element signature="e#427#428#0" expanded="true" />
+            <element signature="e#466#467#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
